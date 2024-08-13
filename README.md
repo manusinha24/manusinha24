@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/71d79cbb-9c28-4464-88a7-03e5c38d9d80)**bem vindos**❤
+**bem vindos**❤
 
 meu nome é manuela 
 
