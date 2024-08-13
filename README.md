@@ -1,16 +1,13 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/71d79cbb-9c28-4464-88a7-03e5c38d9d80)**bem vindos**❤
 
-<!--
-**manusinha24/manusinha24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é manuela 
 
-Here are some ideas to get you started:
+estou estudando na alura
+estou me desenvolvendo na linguagem javaScript
+utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## voce entra em contato comigo😉
+
+00001104053512SP@al.educacao.sp.gov.br
+manuzinha
+![](https://media1.tenor.com/m/zCQAE0RRjl8AAAAC/middle-child-swag.gif)
